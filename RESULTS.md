@@ -8,9 +8,9 @@ Lab section:  L01
 
 Tick one, and say how many cores it reported:
 
-- [ ] GitHub Codespaces — cores: REPLACE THIS LINE
-- [ ] Docker or Podman on my own laptop — OS and cores: REPLACE THIS LINE
-- [ ] An SCI 234 lab machine — cores: REPLACE THIS LINE
+- [ ] GitHub Codespaces — cores: N/A
+- [ ] Docker or Podman on my own laptop — OS and cores: N/A
+- [ ] An SCI 234 lab machine — cores: N/A
 - [X] Something else — Google Colab: 2
 
 ## Tools and sources
@@ -68,4 +68,4 @@ One sentence.
 **0.3** Anything that went wrong during setup, and what fixed it. One or two
 lines — this genuinely helps us fix the instructions for next year.
 
- - Nothing went wrong, 
+ - Nothing went wrong.
