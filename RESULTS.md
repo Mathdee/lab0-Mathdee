@@ -15,7 +15,7 @@ Tick one, and say how many cores it reported:
 
 ## Tools and sources
 
-Tools and sources: REPLACE THIS LINE
+Tools and sources: Did not use AI to help with installation.
 
 > Required on every lab. For Lab 0 you **may** use AI to help with installation
 > and setup problems — just say so here, e.g. "used Claude to work out why Docker
