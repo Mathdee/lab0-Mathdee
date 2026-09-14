@@ -11,7 +11,7 @@ Tick one, and say how many cores it reported:
 - [ ] GitHub Codespaces — cores: REPLACE THIS LINE
 - [ ] Docker or Podman on my own laptop — OS and cores: REPLACE THIS LINE
 - [ ] An SCI 234 lab machine — cores: REPLACE THIS LINE
-- [ ] Something else — describe it: REPLACE THIS LINE
+- [X] Something else — Google Colab: 2
 
 ## Tools and sources
 
