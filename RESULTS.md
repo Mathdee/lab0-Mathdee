@@ -1,8 +1,8 @@
 # Lab 0 results
 
-Name:  REPLACE THIS LINE
-Student number:  REPLACE THIS LINE
-Lab section:  REPLACE THIS LINE
+Name:  Mathijs Deelen
+Student number:  33310434
+Lab section:  L01
 
 ## Which environment did you use?
 
